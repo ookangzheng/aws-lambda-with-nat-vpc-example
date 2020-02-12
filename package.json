@@ -1,0 +1,24 @@
+{
+  "name": "LambdaNatVPC",
+  "version": "1.0.0",
+  "description": "``` ❯ git config --local user.name \"ookangzheng\" ❯ git config --local user.email \"6301735+ookangzheng@users.noreply.github.com\" ❯ git remote add upstream git@github.com:ookangzheng/aws-lambda-with-nat-vpc-example.git ❯ git remote add origin git@github.com:ookangzheng/aws-lambda-with-nat-vpc-example.git",
+  "main": "handler.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ookangzheng/aws-lambda-with-nat-vpc-example.git"
+  },
+  "keywords": ['aws','lambda','cloudformation','nat','vpc'],
+  "author": "ookangzheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ookangzheng/aws-lambda-with-nat-vpc-example/issues"
+  },
+  "homepage": "https://github.com/ookangzheng/aws-lambda-with-nat-vpc-example#readme"
+}

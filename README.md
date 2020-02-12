@@ -1,3 +1,8 @@
+## Serverless deploy
+```
+serverless deploy --aws-profile xxx 
+```
+
 ## Git setup
 
 ```
